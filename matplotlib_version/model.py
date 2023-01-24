@@ -4,6 +4,9 @@ from matplotlib.pyplot import *
 from fractions import Fraction
 
 
+# Ввод и вывод программы через консоль
+
+
 # Волшебная команда для анимированных графиков
 matplotlib.use("TkAgg")
 
